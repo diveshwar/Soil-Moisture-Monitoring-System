@@ -4,4 +4,12 @@ By integrating a soil moisture sensor with an ESP8266 microcontroller, this syst
 
 This project is a cost-effective, scalable, and easy-to-implement solution for smart farming.
 
+Features
+Real-time Monitoring – Continuously measures and updates soil moisture levels.
+IoT-Based System – Uses ESP8266 WiFi module to transmit data wirelessly.
+Web Dashboard – Displays soil moisture levels remotely.
+Energy Efficient – Operates on minimal power consumption.
+Cost-Effective – Suitable for small farms and research projects.
+
+
 
