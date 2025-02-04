@@ -45,4 +45,9 @@ The data is transmitted to a web server to display real-time soil moisture level
 Users can monitor moisture levels remotely and take necessary irrigation actions.
 
 
-
+Benefits of the System
+Water Conservation – Prevents overwatering and reduces waste.
+Improved Crop Yield – Ensures plants get the right amount of water.
+Remote Monitoring – Access soil moisture data from anywhere.
+Easy to Deploy – Simple hardware and software setup.
+Scalability – Can be expanded with additional sensors and automation.
